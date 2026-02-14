@@ -493,8 +493,33 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 DebugSwift is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## References
-
+d5d604b00977c87270a70a1c1a4fcfec232fe6e3
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) 
 - [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) 
 - [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit)
 - [LeakedViewControllerDetector](https://github.com/Janneman84/LeakedViewControllerDetector)
+-
+Always use the OpenAI developer documentation MCP server if you need to work with the OpenAI API, ChatGPT Apps SDK, Codex,… without me having to explicitly ask.codex mcp listimport OpenAI from "openai";
+const client = new OpenAI();
+
+const response = await client.responses.create({
+  model: "gpt-5.2",
+  input: "Write a short bedtime story about a unicorn.",
+});
+
+console.log(response.output_text);
+sudo apt install path_to_deb_filesudo apt install path_to_deb_fileOnly 64-bit versions of Linux are supported. {
+  "key": "Khirz6zTPdfd7",
+  "urls": {
+    "Result.docx": "https://documentserver/Result.docx"
+  },
+  "end": true
+}{
+  "async": false,
+  "url": "https://example.com/compare.docbuilder"
+}builder.OpenFile("https://example.com/file1.docx")
+const file = builderJS.OpenTmpFile("https://example.com/file2.docx")
+AscCommonWord.CompareDocuments(Api, file, null)
+file.Close()
+builder.SaveFile("docx", "Result.docx")
+builder.CloseFile()
